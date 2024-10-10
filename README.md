@@ -14,3 +14,11 @@ Ocular disease diagnosis
 Image segmentation
 Transfer learning
 Multi-modal fusion
+Citation: @misc{suresh_rasappan_2024,
+	title={Retinal and Ocular Fundus Images for Diagnosis},
+	url={https://www.kaggle.com/dsv/9596906},
+	DOI={10.34740/KAGGLE/DSV/9596906},
+	publisher={Kaggle},
+	author={Suresh Rasappan},
+	year={2024}
+}
